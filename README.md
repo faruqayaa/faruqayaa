@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_conioz?igsh=amp1NnBmejlzam9z">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.antaranews.com/cache/1200x800/2016/05/20160512logo_baru_instagram.jpg" />
   </a>
 </div>
 
