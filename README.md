@@ -28,10 +28,10 @@
 ## Connect With Me 🤝
 
 <div align="center">
-  <a href="https://github.com/Vodkaa4">
+  <a href="https://github.com/faruqayaa">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muhamad-alip-bunyamin-26120125b/">
+  <a href="https://www.instagram.com/_conioz?igsh=amp1NnBmejlzam9z">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
