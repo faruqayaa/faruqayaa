@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://github.com/faruqayaa">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/?size=48&id=AZOZNnY73haj&format=png" />
   </a>
   <a href="https://www.instagram.com/_conioz?igsh=amp1NnBmejlzam9z">
     <img src="https://img.icons8.com/?size=50&id=M486asakOqWV&format=gif" />
